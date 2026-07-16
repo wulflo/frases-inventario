@@ -1,1142 +1,1194 @@
 [
-    {
-        "quote": "Las dificultades aumentan cuanto más nos acercamos a la meta.",
-        "author": "Johann Wolfgang von Goethe"
-    },
-    {
-        "quote": "Un buen comienzo es la mitad del trabajo.",
-        "author": "Aristóteles"
-    },
-    {
-        "quote": "La vida es una experiencia de aprendizaje, solo si aprendes.",
-        "author": "Yogi Berra"
-    },
-    {
-        "quote": "La autocomplacencia es fatal para el progreso.",
-        "author": "Margaret Sangster"
-    },
-    {
-        "quote": "La vida es cambio. El crecimiento es opcional. Elige sabiamente.",
-        "author": "Karen Clark"
-    },
-    {
-        "quote": "Teniendo nada, nada puede perder.",
-        "author": "William Shakespeare"
-    },
-    {
-        "quote": "Los problemas son solo oportunidades en ropa de trabajo.",
-        "author": "Henry J. Kaiser"
-    },
-    {
-        "quote": "Piedra que rueda no acumula musgo.",
-        "author": "Publilio Siro"
-    },
-    {
-        "quote": "Confía en ti mismo. Sabes más de lo que crees que sabes.",
-        "author": "Benjamin Spock"
-    },
-    {
-        "quote": "Estudia el pasado si quieres adivinar el futuro.",
-        "author": "Confucio"
-    },
-    {
-        "quote": "Bien hecho es mejor que bien dicho.",
-        "author": "Benjamin Franklin"
-    },
-    {
-        "quote": "Un hoy vale por dos mañanas.",
-        "author": "Benjamin Franklin"
-    },
-    {
-        "quote": "Una vez que eliges la esperanza, todo es posible.",
-        "author": "Christopher Reeve"
-    },
-    {
-        "quote": "Uno fracasa hacia adelante rumbo al éxito.",
-        "author": "Charles Kettering"
-    },
-    {
-        "quote": "El aprendizaje es un tesoro que seguirá a su dueño a todas partes.",
-        "author": "Proverbio chino"
-    },
-    {
-        "quote": "Se como deseas parecer.",
-        "author": "Sócrates"
-    },
-    {
-        "quote": "El mundo siempre está en movimiento.",
-        "author": "V. Naipaul"
-    },
-    {
-        "quote": "Nunca confundas actividad con logro.",
-        "author": "John Wooden"
-    },
-    {
-        "quote": "Lo que te preocupa, te domina.",
-        "author": "John Locke"
-    },
-    {
-        "quote": "Uno enfrenta el futuro con su pasado.",
-        "author": "T. S. Eliot"
-    },
-    {
-        "quote": "Las metas son el combustible en el horno del logro.",
-        "author": "Brian Tracy"
-    },
-    {
-        "quote": "Quien siembra virtud, cosecha honor.",
-        "author": "Leonardo da Vinci"
-    },
-    {
-        "quote": "Hablar no cocina el arroz.",
-        "author": "Proverbio chino"
-    },
-    {
-        "quote": "Es capaz quien piensa que es capaz.",
-        "author": "Virgilio"
-    },
-    {
-        "quote": "Una meta sin un plan es solo un deseo.",
-        "author": "Desconocido"
-    },
-    {
-        "quote": "Para tener éxito, primero debemos creer que podemos.",
-        "author": "Michael Korda"
-    },
-    {
-        "quote": "Aprende del ayer, vive para el hoy, ten esperanza en el mañana.",
-        "author": "Albert Einstein"
-    },
-    {
-        "quote": "Una mala hierba no es más que una flor disfrazada.",
-        "author": "James Lowell"
-    },
-    {
-        "quote": "Toda audacia seria comienza desde adentro.",
-        "author": "Harriet Beecher Stowe"
-    },
-    {
-        "quote": "El mejor maestro es la experiencia aprendida de los fracasos.",
-        "author": "Byron Pulsifer"
-    },
-    {
-        "quote": "Piensa en lo difícil que sería la física si las partículas pudieran pensar.",
-        "author": "Murray Gell-Mann"
-    },
-    {
-        "quote": "El amor es la flor que tienes que dejar crecer.",
-        "author": "John Lennon"
-    },
-    {
-        "quote": "No esperes. El momento nunca será el justo y perfecto.",
-        "author": "Napoleon Hill"
-    },
-    {
-        "quote": "El tiempo es el consejero más sabio de todos.",
-        "author": "Pericles"
-    },
-    {
-        "quote": "La sabiduría comienza en el asombro.",
-        "author": "Sócrates"
-    },
-    {
-        "quote": "Sin coraje, la sabiduría no da frutos.",
-        "author": "Baltasar Gracián"
-    },
-    {
-        "quote": "El cambio en todas las cosas es dulce.",
-        "author": "Aristóteles"
-    },
-    {
-        "quote": "Lo que temes es lo que requiere acción para ser superado.",
-        "author": "Byron Pulsifer"
-    },
-    {
-        "quote": "Cuando el desempeño supera la ambición, la superposición se llama éxito.",
-        "author": "Cullen Hightower"
-    },
-    {
-        "quote": "Cuando los hechos hablan, las palabras no son nada.",
-        "author": "Proverbio africano"
-    },
-    {
-        "quote": "Nunca pienso en el futuro. Llega lo suficientemente pronto.",
-        "author": "Albert Einstein"
-    },
-    {
-        "quote": "La habilidad para hacer proviene del hacer.",
-        "author": "Ralph Emerson"
-    },
-    {
-        "quote": "La sabiduría es la parte suprema de la felicidad.",
-        "author": "Sófocles"
-    },
-    {
-        "quote": "Creo que toda persona nace con talento.",
-        "author": "Maya Angelou"
-    },
-    {
-        "quote": "Los principios importantes pueden, y deben, ser inflexibles.",
-        "author": "Abraham Lincoln"
-    },
-    {
-        "quote": "Emprender una nueva acción trae nuevas fuerzas.",
-        "author": "Richard Evans"
-    },
-    {
-        "quote": "Los años enseñan mucho que los días nunca saben.",
-        "author": "Ralph Emerson"
-    },
-    {
-        "quote": "Nuestra desconfianza es muy cara.",
-        "author": "Ralph Emerson"
-    },
-    {
-        "quote": "Todos conocen el camino; pocos realmente lo caminan.",
-        "author": "Bodhidharma"
-    },
-    {
-        "quote": "El gran talento encuentra la felicidad en la ejecución.",
-        "author": "Johann Wolfgang von Goethe"
-    },
-    {
-        "quote": "La fe en uno mismo es el mejor y más seguro camino.",
-        "author": "Miguel Ángel"
-    },
-    {
-        "quote": "El éxito no es definitivo, el fracaso no es fatídico: lo que cuenta es el valor para continuar.",
-        "author": "Winston Churchill"
-    },
-    {
-        "quote": "Los dos guerreros más poderosos son la paciencia y el tiempo.",
-        "author": "León Tolstói"
-    },
-    {
-        "quote": "Anticipa lo difícil gestionando lo fácil.",
-        "author": "Lao Tzu"
-    },
-    {
-        "quote": "Aquellos que están libres de pensamientos resentidos seguramente encuentran la paz.",
-        "author": "Buda"
-    },
-    {
-        "quote": "Un dicho corto a menudo contiene mucha sabiduría.",
-        "author": "Sófocles"
-    },
-    {
-        "quote": "Haz solo lo que te dicte el corazón.",
-        "author": "Princesa Diana"
-    },
-    {
-        "quote": "La vida es movimiento: ¡respiramos, comemos, caminamos, nos movemos!",
-        "author": "John Pierrakos"
-    },
-    {
-        "quote": "Nadie puede hacerte sentir inferior sin tu consentimiento.",
-        "author": "Eleanor Roosevelt"
-    },
-    {
-        "quote": "Discute por tus limitaciones, y seguro que serán tuyas.",
-        "author": "Richard Bach"
-    },
-    {
-        "quote": "La suerte es lo que sucede cuando la preparación se encuentra con la oportunidad.",
-        "author": "Séneca"
-    },
-    {
-        "quote": "La victoria pertenece al más perseverante.",
-        "author": "Napoleón Bonaparte"
-    },
-    {
-        "quote": "Ama a todos, confía en unos pocos, no le hagas mal a nadie.",
-        "author": "William Shakespeare"
-    },
-    {
-        "quote": "Para ganar, debes esperar ganar.",
-        "author": "Richard Bach"
-    },
-    {
-        "quote": "Fija tus metas altas y no te detengas hasta llegar a ellas.",
-        "author": "Bo Jackson"
-    },
-    {
-        "quote": "Sonríe, respira y ve despacio.",
-        "author": "Thich Nhat Hanh"
-    },
-    {
-        "quote": "Haz más que soñar: trabaja.",
-        "author": "William Arthur Ward"
-    },
-    {
-        "quote": "Ningún hombre fue sabio por casualidad.",
-        "author": "Séneca"
-    },
-    {
-        "quote": "El que está mareado piensa que el mundo da vueltas.",
-        "author": "William Shakespeare"
-    },
-    {
-        "quote": "No arruines el presente con un pasado arruinado.",
-        "author": "Ellen Gilchrist"
-    },
-    {
-        "quote": "Haz algo maravilloso, la gente podría imitarlo.",
-        "author": "Albert Schweitzer"
-    },
-    {
-        "quote": "Haz una cosa cada día que te asuste.",
-        "author": "Eleanor Roosevelt"
-    },
-    {
-        "quote": "Si no puedes guardar silencio, se brillante y reflexivo.",
-        "author": "Byron Pulsifer"
-    },
-    {
-        "quote": "Quien mira hacia afuera, sueña; quien mira hacia adentro, despierta.",
-        "author": "Carl Jung"
-    },
-    {
-        "quote": "La respuesta más corta es hacer.",
-        "author": "Lord Herbert"
-    },
-    {
-        "quote": "Todo nuestro conocimiento tiene su origen en nuestras percepciones.",
-        "author": "Leonardo da Vinci"
-    },
-    {
-        "quote": "Confiar en nuestra intuición a menudo nos salva del desastre.",
-        "author": "Anne Wilson Schaef"
-    },
-    {
-        "quote": "La verdad es poderosa y prevalece.",
-        "author": "Sojourner Truth"
-    },
-    {
-        "quote": "¡Ilumina el mañana con el hoy!",
-        "author": "Elizabeth Browning"
-    },
-    {
-        "quote": "El silencio es una cerca alrededor de la sabiduría.",
-        "author": "Proverbio alemán"
-    },
-    {
-        "quote": "La sociedad desarrolla el ingenio, pero solo su contemplación forma el genio.",
-        "author": "Madame de Staël"
-    },
-    {
-        "quote": "Las cosas más simples suelen ser las más verdaderas.",
-        "author": "Richard Bach"
-    },
-    {
-        "quote": "Ayer me atreví a luchar. Hoy me atrevo a ganar.",
-        "author": "Bernadette Devlin"
-    },
-    {
-        "quote": "Ninguna excusa te salvará de aceptar la responsabilidad.",
-        "author": "Napoleon Hill"
-    },
-    {
-        "quote": "Si puedes soñarlo, puedes hacerlo.",
-        "author": "Walt Disney"
-    },
-    {
-        "quote": "Es mejor viajar bien que llegar.",
-        "author": "Robert Louis Stevenson"
-    },
-    {
-        "quote": "La vida se encoge o se expande en proporción al coraje de uno.",
-        "author": "Anaïs Nin"
-    },
-    {
-        "quote": "Si te conoces a ti mismo y conoces a tu enemigo, no debes temer el resultado de cien batallas.",
-        "author": "Sun Tzu"
-    },
-    {
-        "quote": "El silencio es un verdadero amigo que nunca traiciona.",
-        "author": "Confucio"
-    },
-    {
-        "quote": "El carácter se desarrolla a sí mismo en el torrente de la vida.",
-        "author": "Johann Wolfgang von Goethe"
-    },
-    {
-        "quote": "De pequeñas bellotas crecen robles poderosos.",
-        "author": "Proverbio americano"
-    },
-    {
-        "quote": "No puedes detener las olas, pero puedes aprender a surfear.",
-        "author": "Jon Kabat-Zinn"
-    },
-    {
-        "quote": "La realidad no se ajusta al ideal, pero lo confirma.",
-        "author": "Gustave Flaubert"
-    },
-    {
-        "quote": "Habla en voz baja, si hablas de amor.",
-        "author": "William Shakespeare"
-    },
-    {
-        "quote": "Un gran talento encuentra su felicidad en la ejecución.",
-        "author": "Johann Wolfgang von Goethe"
-    },
-    {
-        "quote": "La realidad deja mucho a la imaginación.",
-        "author": "John Lennon"
-    },
-    {
-        "quote": "El mejor remedio para la ira es la demora.",
-        "author": "Séneca"
-    },
-    {
-        "quote": "El crecimiento en sí mismo contiene el germen de la felicidad.",
-        "author": "Pearl Buck"
-    },
-    {
-        "quote": "Nada fortalece tanto la autoridad como el silencio.",
-        "author": "Leonardo da Vinci"
-    },
-    {
-        "quote": "Adondequiera que vayas, ve con todo tu corazón.",
-        "author": "Confucio"
-    },
-    {
-        "quote": "Lo único realmente valioso es la intuición.",
-        "author": "Albert Einstein"
-    },
-    {
-        "quote": "La buena suerte es otro nombre para la tenacidad de propósito.",
-        "author": "Ralph Emerson"
-    },
-    {
-        "quote": "Los arcoíris se disculpan por los cielos enojados.",
-        "author": "Sylvia Voirol"
-    },
-    {
-        "quote": "El tiempo es la cosa más valiosa que un hombre puede gastar.",
-        "author": "Teofrasto"
-    },
-    {
-        "quote": "Pase lo que pase, asume la responsabilidad.",
-        "author": "Tony Robbins"
-    },
-    {
-        "quote": "La experiencia es simplemente el nombre que le damos a nuestros errores.",
-        "author": "Oscar Wilde"
-    },
-    {
-        "quote": "Pienso, y eso es todo lo que soy.",
-        "author": "Dylan Murphy"
-    },
-    {
-        "quote": "Si el zapato no te queda, ¿debemos cambiar el pie?",
-        "author": "Carl Gustav Jung"
-    },
-    {
-        "quote": "Cada día provee sus propios regalos.",
-        "author": "Marco Aurelio"
-    },
-    {
-        "quote": "Mientras nos detenemos a pensar, a menudo perdemos nuestra oportunidad.",
-        "author": "Publilio Siro"
-    },
-    {
-        "quote": "La vida no se trata de encontrarte a ti mismo. La vida se trata de crearte a ti mismo.",
-        "author": "George Bernard Shaw"
-    },
-    {
-        "quote": "Para traer algo a tu vida, imagina que ya está ahí.",
-        "author": "Richard Bach"
-    },
-    {
-        "quote": "Empieza a tejer y Dios te dará el hilo.",
-        "author": "Proverbio alemán"
-    },
-    {
-        "quote": "Cuanto más te conoces a ti mismo, más te perdonas.",
-        "author": "Anónimo"
-    },
-    {
-        "quote": "Sin fe, nada es posible. Con ella, nada es imposible.",
-        "author": "Mary Bethune"
-    },
-    {
-        "quote": "Una vez que aceptamos nuestros límites, vamos más allá de ellos.",
-        "author": "Albert Einstein"
-    },
-    {
-        "quote": "Cualquier cosa que esperemos con confianza se convierte en nuestra propia profecía autocumplida.",
-        "author": "Brian Tracy"
-    },
-    {
-        "quote": "Todo lo que puedes imaginar es real.",
-        "author": "Pablo Picasso"
-    },
-    {
-        "quote": "El miedo es un cuarto oscuro donde se revelan los negativos.",
-        "author": "Michael Pritchard"
-    },
-    {
-        "quote": "La sabiduría más verdadera es una determinación resuelta.",
-        "author": "Napoleón Bonaparte"
-    },
-    {
-        "quote": "La vida es la flor de la cual el amor es la miel.",
-        "author": "Victor Hugo"
-    },
-    {
-        "quote": "La libertad es el derecho a vivir como deseamos.",
-        "author": "Epicteto"
-    },
-    {
-        "quote": "Nunca ignores un presentimiento, pero nunca creas que es suficiente.",
-        "author": "Robert Heller"
-    },
-    {
-        "quote": "Alguien es especial solo si se lo dices.",
-        "author": "Byron Pulsifer"
-    },
-    {
-        "quote": "No hay un camino para la felicidad, la felicidad es el camino.",
-        "author": "Abraham Johannes Muste"
-    },
-    {
-        "quote": "El que habla más, más pronto se agota.",
-        "author": "Lao Tzu"
-    },
-    {
-        "quote": "El que está contento es rico.",
-        "author": "Lao Tzu"
-    },
-    {
-        "quote": "Lo que logramos interiormente cambiará la realidad exterior.",
-        "author": "Plutarco"
-    },
-    {
-        "quote": "Nuestra fuerza crece a partir de nuestras debilidades.",
-        "author": "Ralph Waldo Emerson"
-    },
-    {
-        "quote": "Debemos convertirnos en el cambio que queremos ver.",
-        "author": "Mahatma Gandhi"
-    },
-    {
-        "quote": "La felicidad se encuentra en el hacer, no simplemente en el poseer.",
-        "author": "Napoleon Hill"
-    },
-    {
-        "quote": "Elegimos nuestro destino en la forma en que tratamos a los demás.",
-        "author": "Wit"
-    },
-    {
-        "quote": "Ningún copo de nieve en una avalancha se siente jamás responsable.",
-        "author": "Stanisław Jerzy Lec"
-    },
-    {
-        "quote": "La fortuna favorece a los valientes.",
-        "author": "Virgilio"
-    },
-    {
-        "quote": "La mejor forma de salir es siempre a través.",
-        "author": "Robert Frost"
-    },
-    {
-        "quote": "La mente desaprende con dificultad lo que ha aprendido por mucho tiempo.",
-        "author": "Séneca"
-    },
-    {
-        "quote": "Destruyo a mis enemigos cuando los convierto en mis amigos.",
-        "author": "Abraham Lincoln"
-    },
-    {
-        "quote": "Ningún jardín está libre de malas hierbas.",
-        "author": "Thomas Fuller"
-    },
-    {
-        "quote": "No hay más fracaso que dejar de intentarlo.",
-        "author": "Elbert Hubbard"
-    },
-    {
-        "quote": "Las palabras amables abrirán una puerta de hierro.",
-        "author": "Proverbio turco"
-    },
-    {
-        "quote": "Los problemas son solo oportunidades con espinas.",
-        "author": "Hugh Miller"
-    },
-    {
-        "quote": "La vida es solo una oportunidad para hacer crecer un alma.",
-        "author": "A. Powell Davies"
-    },
-    {
-        "quote": "Las montañas no pueden ser superadas excepto por caminos sinuosos.",
-        "author": "Johann Wolfgang von Goethe"
-    },
-    {
-        "quote": "Que el jardín del despertar de nuestros corazones florezca con cientos de flores.",
-        "author": "Thich Nhat Hanh"
-    },
-    {
-        "quote": "Mantente fiel a los sueños de tu juventud.",
-        "author": "Friedrich von Schiller"
-    },
-    {
-        "quote": "Nunca eres un perdedor hasta que dejas de intentarlo.",
-        "author": "Mike Ditka"
-    },
-    {
-        "quote": "La ciencia es conocimiento organizado. La sabiduría es vida organizada.",
-        "author": "Immanuel Kant"
-    },
-    {
-        "quote": "Saber no es suficiente; ¡debemos aplicarlo!",
-        "author": "Johann Wolfgang von Goethe"
-    },
-    {
-        "quote": "Las creencias fuertes ganan a hombres fuertes, y luego los hacen más fuertes.",
-        "author": "Walter Bagehot"
-    },
-    {
-        "quote": "El otoño es una segunda primavera donde cada hoja es una flor.",
-        "author": "Albert Camus"
-    },
-    {
-        "quote": "Si te rindes al viento, puedes cabalgarlo.",
-        "author": "Toni Morrison"
-    },
-    {
-        "quote": "Mantén tu rostro hacia la luz del sol y no podrás ver la sombra.",
-        "author": "Helen Keller"
-    },
-    {
-        "quote": "Escribe tus planes en lápiz y dale a Dios el borrador.",
-        "author": "Paulo Coelho"
-    },
-    {
-        "quote": "La inspiración existe, pero tiene que encontrarnos trabajando.",
-        "author": "Pablo Picasso"
-    },
-    {
-        "quote": "Elige batallas lo suficientemente grandes como para importar, lo suficientemente pequeñas como para ganar.",
-        "author": "Jonathan Kozol"
-    },
-    {
-        "quote": "No te comprometas a ti mismo. Eres todo lo que tienes.",
-        "author": "Janis Joplin"
-    },
-    {
-        "quote": "Las dificultades son cosas que muestran lo que es una persona.",
-        "author": "Epicteto"
-    },
-    {
-        "quote": "Cuando dudas de tu poder, le das poder a tu duda.",
-        "author": "Honoré de Balzac"
-    },
-    {
-        "quote": "La causa está oculta. El efecto es visible para todos.",
-        "author": "Ovidio"
-    },
-    {
-        "quote": "Una pregunta prudente es la mitad de la sabiduría.",
-        "author": "Francis Bacon"
-    },
-    {
-        "quote": "El camino hacia el éxito es tomar una acción masiva y determinada.",
-        "author": "Tony Robbins"
-    },
-    {
-        "quote": "Si deseas ser escritor, escribe.",
-        "author": "Epicteto"
-    },
-    {
-        "quote": "O tú dominas el día o el día te domina a ti.",
-        "author": "Jim Rohn"
-    },
-    {
-        "quote": "Mejor ser ignorante de un asunto que saberlo a medias.",
-        "author": "Publilio Siro"
-    },
-    {
-        "quote": "Sigue tus instintos. Ahí es donde se manifiesta la verdadera sabiduría.",
-        "author": "Oprah Winfrey"
-    },
-    {
-        "quote": "Nunca se hizo un buen cuchillo de mal acero.",
-        "author": "Benjamin Franklin"
-    },
-    {
-        "quote": "Para lograr grandes cosas, debemos soñar además de actuar.",
-        "author": "Anatole France"
-    },
-    {
-        "quote": "La paciencia es la compañera de la sabiduría.",
-        "author": "San Agustín"
-    },
-    {
-        "quote": "Para disfrutar la vida, debemos tocar gran parte de ella con ligereza.",
-        "author": "Voltaire"
-    },
-    {
-        "quote": "Para volar, tenemos que tener resistencia.",
-        "author": "Maya Lin"
-    },
-    {
-        "quote": "El corazón tiene razones que la razón no entiende.",
-        "author": "Blaise Pascal"
-    },
-    {
-        "quote": "Se grande en tus actos, como lo has sido en tus pensamientos.",
-        "author": "William Shakespeare"
-    },
-    {
-        "quote": "La imaginación gobierna el mundo.",
-        "author": "Napoleón Bonaparte"
-    },
-    {
-        "quote": "Las palabras amables no cuestan mucho. Sin embargo, logran mucho.",
-        "author": "Blaise Pascal"
-    },
-    {
-        "quote": "No hay mayor daño que el del tiempo perdido.",
-        "author": "Miguel Ángel"
-    },
-    {
-        "quote": "La intuición le dirá a la mente pensante adónde mirar a continuación.",
-        "author": "Jonas Salk"
-    },
-    {
-        "quote": "El viaje de mil millas comienza con un solo paso.",
-        "author": "Lao Tzu"
-    },
-    {
-        "quote": "La eficiencia es hacer las cosas bien; la efectividad es hacer las cosas correctas.",
-        "author": "Peter Drucker"
-    },
-    {
-        "quote": "Arde con el fuego que nunca se extingue.",
-        "author": "Luisa Sigea"
-    },
-    {
-        "quote": "No llores porque terminó. Sonríe porque ocurrió.",
-        "author": "Ludwig Jacobowski"
-    },
-    {
-        "quote": "Decir no es más fácil de hacer. Decir sí es más fácil de pronunciar.",
-        "author": "Jason Fried"
-    },
-    {
-        "quote": "Los jonrones de ayer no ganan los juegos de hoy.",
-        "author": "Babe Ruth"
-    },
-    {
-        "quote": "El silencio es profundo como la Eternidad, el discurso es superficial como el Tiempo.",
-        "author": "Thomas Carlyle"
-    },
-    {
-        "quote": "No se asfixien mutuamente. Nadie puede crecer a la sombra.",
-        "author": "Leo F. Buscaglia"
-    },
-    {
-        "quote": "No puedes dar la mano con el puño cerrado.",
-        "author": "Indira Gandhi"
-    },
-    {
-        "quote": "Una buena decisión se basa en el conocimiento y no en los números.",
-        "author": "Platón"
-    },
-    {
-        "quote": "El cauteloso rara vez se equivoca.",
-        "author": "Confucio"
-    },
-    {
-        "quote": "Si no hay lucha, no hay progreso.",
-        "author": "Frederick Douglass"
-    },
-    {
-        "quote": "Donde hay gran amor, siempre hay milagros.",
-        "author": "Willa Cather"
-    },
-    {
-        "quote": "El tiempo que disfrutas perdiendo no fue tiempo perdido.",
-        "author": "John Lennon"
-    },
-    {
-        "quote": "Cada problema tiene un regalo para ti en sus manos.",
-        "author": "Richard Bach"
-    },
-    {
-        "quote": "La tristeza se va volando en las alas del tiempo.",
-        "author": "Jean de la Fontaine"
-    },
-    {
-        "quote": "A menudo me he arrepentido de mi discurso, nunca de mi silencio.",
-        "author": "Publilio Siro"
-    },
-    {
-        "quote": "Nunca dejes para mañana lo que puedes hacer hoy.",
-        "author": "Thomas Jefferson"
-    },
-    {
-        "quote": "Las mentes son como los paracaídas. Solo funcionan cuando están abiertas.",
-        "author": "Thomas Dewar"
-    },
-    {
-        "quote": "Si un hombre da lo mejor de sí, ¿qué más hay?",
-        "author": "George Patton"
-    },
-    {
-        "quote": "El secreto del éxito es la constancia de propósito.",
-        "author": "Benjamin Disraeli"
-    },
-    {
-        "quote": "La vida es un progreso, no una estación.",
-        "author": "Ralph Emerson"
-    },
-    {
-        "quote": "Todas las estaciones son hermosas para la persona que lleva la felicidad por dentro.",
-        "author": "Horace Friess"
-    },
-    {
-        "quote": "Para evitar la crítica, no hagas nada, no digas nada, no seas nada.",
-        "author": "Elbert Hubbard"
-    },
-    {
-        "quote": "Todas las cosas cambian; nada perece.",
-        "author": "Ovidio"
-    },
-    {
-        "quote": "La ausencia hace que el corazón se encariñe más.",
-        "author": "Thomas Haynes Bayly"
-    },
-    {
-        "quote": "La imaginación es el cometa más alto que uno puede volar.",
-        "author": "Lauren Bacall"
-    },
-    {
-        "quote": "El principio del conocimiento es el descubrimiento de algo que no entendemos.",
-        "author": "Frank Herbert"
-    },
-    {
-        "quote": "Una vez descartado lo imposible, lo que queda, por improbable que parezca, debe ser la verdad.",
-        "author": "Arthur Conan Doyle"
-    },
-    {
-        "quote": "La buena madera no crece con facilidad; cuanto más fuerte es el viento, más fuertes son los árboles.",
-        "author": "J. Willard Marriott"
-    },
-    {
-        "quote": "Los vientos y las olas siempre están del lado de los navegantes más hábiles.",
-        "author": "Edward Gibbon"
-    },
-    {
-        "quote": "El futuro pertenece a aquellos que creen en la belleza de sus sueños.",
-        "author": "Eleanor Roosevelt"
-    },
-    {
-        "quote": "La fuerza no proviene de la capacidad física. Proviene de una voluntad indomable.",
-        "author": "Mahatma Gandhi"
-    },
-    {
-        "quote": "Cada desgracia que encuentres llevará en sí misma la semilla de la buena suerte de mañana.",
-        "author": "Og Mandino"
-    },
-    {
-        "quote": "Perdonar es liberar a un prisionero y darse cuenta de que ese prisionero eras tú.",
-        "author": "Lewis B. Smedes"
-    },
-    {
-        "quote": "Al creer apasionadamente en algo que aún no existe, lo creamos.",
-        "author": "Nikos Kazantzakis"
-    },
-    {
-        "quote": "Todos los grandes triunfadores con los que he trabajado están impulsados por un sueño personal.",
-        "author": "John Eliot"
-    },
-    {
-        "quote": "Una de las ventajas de ser desordenado es que uno está constantemente haciendo descubrimientos emocionantes.",
-        "author": "A. A. Milne"
-    },
-    {
-        "quote": "Nunca veo lo que se ha hecho; solo veo lo que queda por hacer.",
-        "author": "Marie Curie"
-    },
-    {
-        "quote": "Empieza de inmediato a vivir y cuenta cada día por separado como una vida separada.",
-        "author": "Séneca"
-    },
-    {
-        "quote": "Si no sabes a dónde vas, probablemente terminarás en otro lugar.",
-        "author": "Lawrence Peter"
-    },
-    {
-        "quote": "No es tan importante saber todo como apreciar lo que aprendemos.",
-        "author": "Hannah More"
-    },
-    {
-        "quote": "El ave del paraíso se posa solo sobre la mano que no la atrapa.",
-        "author": "John Berry"
-    },
-    {
-        "quote": "Piensa como un sabio pero comunícate en el lenguaje del pueblo.",
-        "author": "William Yeats"
-    },
-    {
-        "quote": "Ejercítate, por el amor del cielo, en las cosas pequeñas, y luego pasa a las mayores.",
-        "author": "Epicteto"
-    },
-    {
-        "quote": "Si uno no sabe hacia qué puerto navega, ningún viento es favorable.",
-        "author": "Séneca"
-    },
-    {
-        "quote": "Molestarse por lo que no tienes es desperdiciar lo que sí tienes.",
-        "author": "Ken S. Keyes"
-    },
-    {
-        "quote": "Si hiciéramos las cosas de las que somos capaces, nos asombraríamos a nosotros mismos.",
-        "author": "Thomas Edison"
-    },
-    {
-        "quote": "No hay que temer a nada en la vida. Solo hay que entenderlo.",
-        "author": "Marie Curie"
-    },
-    {
-        "quote": "Pon a Dios primero en todo lo que hagas.",
-        "author": "Denzel Washington"
-    },
-    {
-        "quote": "Sin compromiso, nunca vas a empezar; pero sin consistencia, nunca vas a terminar.",
-        "author": "Denzel Washington"
-    },
-    {
-        "quote": "El Dios de la Biblia es también el Dios del genoma. Se le puede adorar en la catedral o en el laboratorio.",
-        "author": "Francis Collins"
-    },
-    {
-        "quote": "Una de las mayores tragedias de nuestro tiempo es la idea de que la ciencia y la religión tienen que estar en guerra.",
-        "author": "Francis Collins"
-    },
-    {
-        "quote": "Lo que sabemos es una gota de agua; lo que ignoramos es el océano.",
-        "author": "Isaac Newton"
-    },
-    {
-        "quote": "La gravedad explica los movimientos de los planetas, pero no puede explicar quién los puso en movimiento.",
-        "author": "Isaac Newton"
-    },
-    {
-        "quote": "Saber que sabemos lo que sabemos, y saber que no sabemos lo que no sabemos, esa es la verdadera sabiduría.",
-        "author": "Nicolás Copérnico"
-    },
-    {
-        "quote": "El universo ha sido forjado para nosotros por un Creador supremamente bueno y ordenado.",
-        "author": "Nicolás Copérnico"
-    },
-    {
-        "quote": "La geometría existía antes de la creación. Es coeterna con la mente de Dios.",
-        "author": "Johannes Kepler"
-    },
-    {
-        "quote": "Solo estaba pensando los pensamientos de Dios después de Él.",
-        "author": "Johannes Kepler"
-    },
-    {
-        "quote": "Más corazón en esas manos, hermanos.",
-        "author": "San Camilo de Lelis"
-    },
-    {
-        "quote": "Los enfermos son los ojos de Dios; lo que hacemos por ellos, lo hacemos por Dios mismo.",
-        "author": "San Camilo de Lelis"
-    },
-    {
-        "quote": "El fin de la ciencia no es aceptar los dichos de otros, sino investigar las causas de lo que ocurre en la naturaleza.",
-        "author": "San Alberto Magno"
-    },
-    {
-        "quote": "No hay nada más noble que la búsqueda de la verdad.",
-        "author": "San Alberto Magno"
-    },
-    {
-        "quote": "Al atardecer de la vida, serás examinado en el amor.",
-        "author": "San Juan de la Cruz"
-    },
-    {
-        "quote": "Para venir a poseerlo todo, no quieras poseer algo en nada.",
-        "author": "San Juan de la Cruz"
-    },
-    {
-        "quote": "Yo te curo, Dios te sana.",
-        "author": "San Martín de Porres"
-    },
-    {
-        "quote": "Todo, incluso el dolor, pasa. Solo lo que se hace por amor permanece.",
-        "author": "San Martín de Porres"
-    },
-    {
-        "quote": "Escribir no es el resultado del pensamiento; es el medio en el que el pensamiento tiene lugar.",
-        "author": "Sönke Ahrens"
-    },
-    {
-        "quote": "No me dejaré disuadir por la crítica de aquellos que no han examinado el cuerpo humano con sus propias manos.",
-        "author": "Andrés Vesalio"
-    },
-    {
-        "quote": "Vivimos en el mejor de los mundos posibles.",
-        "author": "Gottfried Leibniz"
-    },
-    {
-        "quote": "Amar es encontrar la propia felicidad en la felicidad de otro.",
-        "author": "Gottfried Leibniz"
-    },
-    {
-        "quote": "No hay nada en la televisión que valga la pena ver. No vamos a verla en esta casa, y no la quiero en tu menú de propiedad intelectual.",
-        "author": "Philo Farnsworth"
-    },
-    {
-        "quote": "Pobladores del mundo, salvaguardemos esta belleza, no la destruyamos.",
-        "author": "Yuri Gagarin"
-    },
-    {
-        "quote": "Miré y miré, pero no vi a Dios.",
-        "author": "Yuri Gagarin"
-    },
-    {
-        "quote": "Tus clientes más descontentos son tu mayor fuente de aprendizaje.",
-        "author": "Bill Gates"
-    },
-    {
-        "quote": "El mayor riesgo es no asumir ningún riesgo. En un mundo que cambia realmente rápido, la única estrategia en la que el fracaso está garantizado es no asumir riesgos.",
-        "author": "Mark Zuckerberg"
-    },
-    {
-        "quote": "Si algo es lo suficientemente importante, deberías intentarlo incluso si el resultado probable es el fracaso.",
-        "author": "Elon Musk"
-    },
-    {
-        "quote": "El momento estelar más grande de mi vida es saberme fruto del amor, cuyo destino es amar intensamente y por siempre hasta el final.",
-        "author": "Miguel Ángel Cornejo"
-    },
-    {
-        "quote": "Entre la razón y el corazón, haz lo que tu corazón debe hacer; finalmente es lo más bello de nuestro ser, nuestro propio sentir.",
-        "author": "Miguel Ángel Cornejo"
-    },
-    {
-        "quote": "Lamentamos el tiempo no dedicado a nuestros padres, quienes entregaron su vida y amor incondicionalmente, pero a quienes percibimos como fastidiosos en su vejez.",
-        "author": "Miguel Ángel Cornejo"
-    },
-    {
-        "quote": "Dios tiene una tienda donde la gente puede pedir lo que necesite, pero en esta tienda no se venden frutos, sino semillas; es necesario cultivarlas para obtener los resultados.",
-        "author": "Miguel Ángel Cornejo"
-    },
-    {
-        "quote": "Maestro es aquél que hace soñar a sus alumnos en hacer posible lo imposible.",
-        "author": "Miguel Ángel Cornejo"
-    },
-    {
-        "quote": "Las crisis son un alto en el camino, una oportunidad para la reflexión y la autocrítica; es el preludio del nuevo amanecer.",
-        "author": "Miguel Ángel Cornejo"
-    },
-    {
-        "quote": "No sonrío porque soy feliz. Sonrío para ser feliz. No esperes a que llegue la felicidad para regalar una sonrisa.",
-        "author": "Miguel Ángel Cornejo"
-    },
-    {
-        "quote": "Al nacer, el ser humano recibe todo lo necesario para crear el mundo deseado; por lo tanto, se debe tener ánimo y trabajar para lograrlo.",
-        "author": "Miguel Ángel Cornejo"
-    },    
-    {
-        "quote": "¿De qué le sirve al hombre ganar el mundo entero, si pierde su alma?",
-        "author": "Jesús"
-    },
-    {
-        "quote": "El líder no nace, se hace a sí mismo a través del esfuerzo constante y la pasión por servir a los demás.",
-        "author": "Miguel Ángel Cornejo"
-    },
-    {
-        "quote": "El fracaso no existe, solo existen los resultados; si no obtienes lo que deseas, cambia de estrategia hasta lograrlo.",
-        "author": "Miguel Ángel Cornejo"
-    },
-    {
-        "quote": "El éxito no es el destino, es el camino que recorres todos los días dando lo mejor de ti.",
-        "author": "Miguel Ángel Cornejo"
-    },
-    {
-        "quote": "El momento estelar más grande de mi vida es saberme fruto del amor, cuyo destino es amar intensamente y por siempre hasta el final.",
-        "author": "Miguel Ángel Cornejo"
-    },
-    {
-        "quote": "Si cambias tu mente, cambias tu actitud, y si cambias tu actitud, cambias tu destino para siempre.",
-        "author": "Alex Dey"
-    },
-    {
-        "quote": "A la gente no le gusta que le vendan, pero le fascina comprar; dale una solución, no un producto.",
-        "author": "Alex Dey"
-    },
-    {
-        "quote": "Los problemas no surgen para destruirte, sino para mostrarte de qué madera estás hecho y obligarte a crecer.",
-        "author": "Carlos Cuauhtémoc Sánchez"
-    },
-    {
-        "quote": "El amor no es un sentimiento que se encuentra de pronto, es una decisión que se construye y se cuida todos los días.",
-        "author": "Carlos Cuauhtémoc Sánchez"
-    },
-    {
-        "quote": "Aprender a leer es lo más importante que me ha pasado en la vida.",
-        "author": "Mario Vargas Llosa"
-    },
-    {
-        "quote": "Cuando la realidad se vuelve irresistible, la ficción es un refugio. Refugio de tristes, nostálgicos y soñadores.",
-        "author": "Mario Vargas Llosa"
-    },
-    {
-        "quote": "Sé que voy a quererte sin preguntas, sé que vas a quererme sin respuestas.",
-        "author": "Mario Benedetti"
-    },
-    {
-        "quote": "Cinco minutos bastan para soñar una vida, así de relativo es el tiempo.",
-        "author": "Mario Benedetti"
-    },
-    {
-        "quote": "Pienso que estamos ciegos, ciegos que ven, ciegos que, viendo, no ven.",
-        "author": "José Saramago"
-    },
-    {
-        "quote": "La derrota tiene algo positivo, nunca es definitiva. En cambio, la victoria tiene algo negativo, jamás es definitiva.",
-        "author": "José Saramago"
-    },
-    {
-        "quote": "Hay golpes en la vida, tan fuertes... ¡Yo no sé!",
-        "author": "César Vallejo"
-    },
-    {
-        "quote": "Saber más es ser más libre.",
-        "author": "César Vallejo"
-    },
-    {
-        "quote": "Pero la vida siempre triunfa. El hombre es igual al río, profundo y con sus reveses, pero voluntarioso siempre.",
-        "author": "Ciro Alegría"
-    },
-    {
-        "quote": "La tierra no pertenece al hombre, sino el hombre a la tierra.",
-        "author": "Ciro Alegría"
-    },
-    {
-        "quote": "Uno no es lo que es por lo que escribe, sino por lo que ha leído.",
-        "author": "Jorge Luis Borges"
-    },
-    {
-        "quote": "Siempre imaginé que el Paraíso sería algún tipo de biblioteca.",
-        "author": "Jorge Luis Borges"
-    },
-    {
-        "quote": "Cuando el deber patrio llama, la audacia en el campo de batalla es la que dicta los triunfos que la historia recordará.",
-        "author": "José Andrés Rázuri"
-    },
-    {
-        "quote": "Nunca tuve que vindicar mis acciones públicas, ya que el honor fue mi guía y la maledicencia no tuvo nada que reprocharme.",
-        "author": "José Bernardo de Tagle"
-    },
-    {
-        "quote": "Céñí la espada para defender la libertad, siendo el campo de batalla mi taller y suyos los enemigos de la patria.",
-        "author": "José Bernardo de Tagle"
-    }
+  {
+    "quote": "Una de las ventajas de ser desordenado es que uno está constantemente haciendo descubrimientos emocionantes.",
+    "author": "A. A. Milne"
+  },
+  {
+    "quote": "La vida es solo una oportunidad para hacer crecer un alma.",
+    "author": "A. Powell Davies"
+  },
+  {
+    "quote": "No hay un camino para la felicidad, la felicidad es el camino.",
+    "author": "Abraham Johannes Muste"
+  },
+  {
+    "quote": "Los principios importantes pueden, y deben, ser inflexibles.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "quote": "Destruyo a mis enemigos cuando los convierto en mis amigos.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "quote": "El otoño es una segunda primavera donde cada hoja es una flor.",
+    "author": "Albert Camus"
+  },
+  {
+    "quote": "Aprende del ayer, vive para el hoy, ten esperanza en el mañana.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Nunca pienso en el futuro. Llega lo suficientemente pronto.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Lo único realmente valioso es la intuición.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Una vez que aceptamos nuestros límites, vamos más allá de ellos.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Haz algo maravilloso, la gente podría imitarlo.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "quote": "Si cambias tu mente, cambias tu actitud, y si cambias tu actitud, cambias tu destino para siempre.",
+    "author": "Alex Dey"
+  },
+  {
+    "quote": "A la gente no le gusta que le vendan, pero le fascina comprar; dale una solución, no un producto.",
+    "author": "Alex Dey"
+  },
+  {
+    "quote": "Para lograr grandes cosas, debemos soñar además de actuar.",
+    "author": "Anatole France"
+  },
+  {
+    "quote": "La vida se encoge o se expande en proporción al coraje de uno.",
+    "author": "Anaïs Nin"
+  },
+  {
+    "quote": "No me dejaré disuadir por la crítica de aquellos que no han examinado el cuerpo humano con sus propias manos.",
+    "author": "Andrés Vesalio"
+  },
+  {
+    "quote": "Confiar en nuestra intuición a menudo nos salva del desastre.",
+    "author": "Anne Wilson Schaef"
+  },
+  {
+    "quote": "Cuanto más te conoces a ti mismo, más te perdonas.",
+    "author": "Anónimo"
+  },
+  {
+    "quote": "Un buen comienzo es la mitad del trabajo.",
+    "author": "Aristóteles"
+  },
+  {
+    "quote": "El cambio en todas las cosas es dulce.",
+    "author": "Aristóteles"
+  },
+  {
+    "quote": "Una vez descartado lo imposible, lo que queda, por improbable que parezca, debe ser la verdad.",
+    "author": "Arthur Conan Doyle"
+  },
+  {
+    "quote": "Los jonrones de ayer no ganan los juegos de hoy.",
+    "author": "Babe Ruth"
+  },
+  {
+    "quote": "Sin coraje, la sabiduría no da frutos.",
+    "author": "Baltasar Gracián"
+  },
+  {
+    "quote": "El secreto del éxito es la constancia de propósito.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "quote": "Bien hecho es mejor que bien dicho.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "quote": "Un hoy vale por dos mañanas.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "quote": "Nunca se hizo un buen cuchillo de mal acero.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "quote": "Confía en ti mismo. Sabes más de lo que crees que sabes.",
+    "author": "Benjamin Spock"
+  },
+  {
+    "quote": "Ayer me atreví a luchar. Hoy me atrevo a ganar.",
+    "author": "Bernadette Devlin"
+  },
+  {
+    "quote": "Tus clientes más descontentos son tu mayor fuente de aprendizaje.",
+    "author": "Bill Gates"
+  },
+  {
+    "quote": "El corazón tiene razones que la razón no entiende.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "quote": "Las palabras amables no cuestan mucho. Sin embargo, logran mucho.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "quote": "Fija tus metas altas y no te detengas hasta llegar a ellas.",
+    "author": "Bo Jackson"
+  },
+  {
+    "quote": "Todos conocen el camino; pocos realmente lo caminan.",
+    "author": "Bodhidharma"
+  },
+  {
+    "quote": "Las metas son el combustible en el horno del logro.",
+    "author": "Brian Tracy"
+  },
+  {
+    "quote": "Cualquier cosa que esperemos con confianza se convierte en nuestra propia profecía autocumplida.",
+    "author": "Brian Tracy"
+  },
+  {
+    "quote": "Aquellos que están libres de pensamientos resentidos seguramente encuentran la paz.",
+    "author": "Buda"
+  },
+  {
+    "quote": "El mejor maestro es la experiencia aprendida de los fracasos.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "quote": "Lo que temes es lo que requiere acción para ser superado.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "quote": "Si no puedes guardar silencio, se brillante y reflexivo.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "quote": "Alguien es especial solo si se lo dices.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "quote": "Si el zapato no te queda, ¿debemos cambiar el pie?",
+    "author": "Carl Gustav Jung"
+  },
+  {
+    "quote": "Quien mira hacia afuera, sueña; quien mira hacia adentro, despierta.",
+    "author": "Carl Jung"
+  },
+  {
+    "quote": "Los problemas no surgen para destruirte, sino para mostrarte de qué madera estás hecho y obligarte a crecer.",
+    "author": "Carlos Cuauhtémoc Sánchez"
+  },
+  {
+    "quote": "El amor no es un sentimiento que se encuentra de pronto, es una decisión que se construye y se cuida todos los días.",
+    "author": "Carlos Cuauhtémoc Sánchez"
+  },
+  {
+    "quote": "Uno fracasa hacia adelante rumbo al éxito.",
+    "author": "Charles Kettering"
+  },
+  {
+    "quote": "Una vez que eliges la esperanza, todo es posible.",
+    "author": "Christopher Reeve"
+  },
+  {
+    "quote": "Pero la vida siempre triunfa. El hombre es igual al río, profundo y con sus reveses, pero voluntarioso siempre.",
+    "author": "Ciro Alegría"
+  },
+  {
+    "quote": "La tierra no pertenece al hombre, sino el hombre a la tierra.",
+    "author": "Ciro Alegría"
+  },
+  {
+    "quote": "Estudia el pasado si quieres adivinar el futuro.",
+    "author": "Confucio"
+  },
+  {
+    "quote": "El silencio es un verdadero amigo que nunca traiciona.",
+    "author": "Confucio"
+  },
+  {
+    "quote": "Adondequiera que vayas, ve con todo tu corazón.",
+    "author": "Confucio"
+  },
+  {
+    "quote": "El cauteloso rara vez se equivoca.",
+    "author": "Confucio"
+  },
+  {
+    "quote": "Cuando el desempeño supera la ambición, la superposición se llama éxito.",
+    "author": "Cullen Hightower"
+  },
+  {
+    "quote": "La felicidad no es ningún destino, ninguna persona, ningún acontecimiento. Es una decisión personal, constante y diaria.",
+    "author": "César Lozano"
+  },
+  {
+    "quote": "No comas todo lo que puedas, no gastes todo lo que tienes, no creas todo lo que escuches, no digas todo lo que sabes.",
+    "author": "César Lozano"
+  },
+  {
+    "quote": "Hay golpes en la vida, tan fuertes... ¡Yo no sé!",
+    "author": "César Vallejo"
+  },
+  {
+    "quote": "Saber más es ser más libre.",
+    "author": "César Vallejo"
+  },
+  {
+    "quote": "No le tengas más miedo a la vida que a la muerte. El tiempo que tarda un problema en irse de tu vida es el mismo tiempo que tardas en entender y agradecer que sólo ha venido para hacer de ti una mejor persona.",
+    "author": "Daniel Habif"
+  },
+  {
+    "quote": "La inmediatez es el nuevo agente aniquilador. Quien asume riesgos inevitables acaba teniendo y logrando más.",
+    "author": "Daniel Habif"
+  },
+  {
+    "quote": "Pon a Dios primero en todo lo que hagas.",
+    "author": "Denzel Washington"
+  },
+  {
+    "quote": "Sin compromiso, nunca vas a empezar; pero sin consistencia, nunca vas a terminar.",
+    "author": "Denzel Washington"
+  },
+  {
+    "quote": "Una meta sin un plan es solo un deseo.",
+    "author": "Desconocido"
+  },
+  {
+    "quote": "Te vas a morir. Así que deja de vivir una vida diseñada para complacer las expectativas de otros y empieza a abrazar tu propia realidad.",
+    "author": "Diego Dreyfus"
+  },
+  {
+    "quote": "El dolor es información pura. Si dejas de huir de él y lo cuestionas, vas a encontrar exactamente el mapa hacia tu propia libertad.",
+    "author": "Diego Dreyfus"
+  },
+  {
+    "quote": "Pienso, y eso es todo lo que soy.",
+    "author": "Dylan Murphy"
+  },
+  {
+    "quote": "Los vientos y las olas siempre están del lado de los navegantes más hábiles.",
+    "author": "Edward Gibbon"
+  },
+  {
+    "quote": "No hay más fracaso que dejar de intentarlo.",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "quote": "Para evitar la crítica, no hagas nada, no digas nada, no seas nada.",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "quote": "Nadie puede hacerte sentir inferior sin tu consentimiento.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "quote": "Haz una cosa cada día que te asuste.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "quote": "El futuro pertenece a aquellos que creen en la belleza de sus sueños.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "quote": "¡Ilumina el mañana con el hoy!",
+    "author": "Elizabeth Browning"
+  },
+  {
+    "quote": "No arruines el presente con un pasado arruinado.",
+    "author": "Ellen Gilchrist"
+  },
+  {
+    "quote": "Si algo es lo suficientemente importante, deberías intentarlo incluso si el resultado probable es el fracaso.",
+    "author": "Elon Musk"
+  },
+  {
+    "quote": "La libertad es el derecho a vivir como deseamos.",
+    "author": "Epicteto"
+  },
+  {
+    "quote": "Las dificultades son cosas que muestran lo que es una persona.",
+    "author": "Epicteto"
+  },
+  {
+    "quote": "Si deseas ser escritor, escribe.",
+    "author": "Epicteto"
+  },
+  {
+    "quote": "Ejercítate, por el amor del cielo, en las cosas pequeñas, y luego pasa a las mayores.",
+    "author": "Epicteto"
+  },
+  {
+    "quote": "Una pregunta prudente es la mitad de la sabiduría.",
+    "author": "Francis Bacon"
+  },
+  {
+    "quote": "El Dios de la Biblia es también el Dios del genoma. Se le puede adorar en la catedral o en el laboratorio.",
+    "author": "Francis Collins"
+  },
+  {
+    "quote": "Una de las mayores tragedias de nuestro tiempo es la idea de que la ciencia y la religión tienen que estar en guerra.",
+    "author": "Francis Collins"
+  },
+  {
+    "quote": "El principio del conocimiento es el descubrimiento de algo que no entendemos.",
+    "author": "Frank Herbert"
+  },
+  {
+    "quote": "Si no hay lucha, no hay progreso.",
+    "author": "Frederick Douglass"
+  },
+  {
+    "quote": "Mantente fiel a los sueños de tu juventud.",
+    "author": "Friedrich von Schiller"
+  },
+  {
+    "quote": "El análisis no cura las heridas por arte de magia, pero te da la lucidez necesaria para dejar de sangrar por los mismos errores.",
+    "author": "Gabriel Rolón"
+  },
+  {
+    "quote": "El amor verdadero no te completa, porque nadie está incompleto. Te acompaña a transitar la maravillosa y compleja aventura de vivir.",
+    "author": "Gabriel Rolón"
+  },
+  {
+    "quote": "La vida no se trata de encontrarte a ti mismo. La vida se trata de crearte a ti mismo.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "quote": "Si un hombre da lo mejor de sí, ¿qué más hay?",
+    "author": "George Patton"
+  },
+  {
+    "quote": "Vivimos en el mejor de los mundos posibles.",
+    "author": "Gottfried Leibniz"
+  },
+  {
+    "quote": "Amar es encontrar la propia felicidad en la felicidad de otro.",
+    "author": "Gottfried Leibniz"
+  },
+  {
+    "quote": "La realidad no se ajusta al ideal, pero lo confirma.",
+    "author": "Gustave Flaubert"
+  },
+  {
+    "quote": "No es tan importante saber todo como apreciar lo que aprendemos.",
+    "author": "Hannah More"
+  },
+  {
+    "quote": "Toda audacia seria comienza desde adentro.",
+    "author": "Harriet Beecher Stowe"
+  },
+  {
+    "quote": "Mantén tu rostro hacia la luz del sol y no podrás ver la sombra.",
+    "author": "Helen Keller"
+  },
+  {
+    "quote": "Los problemas son solo oportunidades en ropa de trabajo.",
+    "author": "Henry J. Kaiser"
+  },
+  {
+    "quote": "Cuando dudas de tu poder, le das poder a tu duda.",
+    "author": "Honoré de Balzac"
+  },
+  {
+    "quote": "Todas las estaciones son hermosas para la persona que lleva la felicidad por dentro.",
+    "author": "Horace Friess"
+  },
+  {
+    "quote": "Los problemas son solo oportunidades con espinas.",
+    "author": "Hugh Miller"
+  },
+  {
+    "quote": "La ciencia es conocimiento organizado. La sabiduría es vida organizada.",
+    "author": "Immanuel Kant"
+  },
+  {
+    "quote": "No puedes dar la mano con el puño cerrado.",
+    "author": "Indira Gandhi"
+  },
+  {
+    "quote": "Lo que sabemos es una gota de agua; lo que ignoramos es el océano.",
+    "author": "Isaac Newton"
+  },
+  {
+    "quote": "La gravedad explica los movimientos de los planetas, pero no puede explicar quién los puso en movimiento.",
+    "author": "Isaac Newton"
+  },
+  {
+    "quote": "La buena madera no crece con facilidad; cuanto más fuerte es el viento, más fuertes son los árboles.",
+    "author": "J. Willard Marriott"
+  },
+  {
+    "quote": "Una mala hierba no es más que una flor disfrazada.",
+    "author": "James Lowell"
+  },
+  {
+    "quote": "No te comprometas a ti mismo. Eres todo lo que tienes.",
+    "author": "Janis Joplin"
+  },
+  {
+    "quote": "Decir no es más fácil de hacer. Decir sí es más fácil de pronunciar.",
+    "author": "Jason Fried"
+  },
+  {
+    "quote": "La tristeza se va volando en las alas del tiempo.",
+    "author": "Jean de la Fontaine"
+  },
+  {
+    "quote": "¿De qué le sirve al hombre ganar el mundo entero, si pierde su alma?",
+    "author": "Jesús"
+  },
+  {
+    "quote": "O tú dominas el día o el día te domina a ti.",
+    "author": "Jim Rohn"
+  },
+  {
+    "quote": "Las dificultades aumentan cuanto más nos acercamos a la meta.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "quote": "El gran talento encuentra la felicidad en la ejecución.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "quote": "El carácter se desarrolla a sí mismo en el torrente de la vida.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "quote": "Un gran talento encuentra su felicidad en la ejecución.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "quote": "Las montañas no pueden ser superadas excepto por caminos sinuosos.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "quote": "Saber no es suficiente; ¡debemos aplicarlo!",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "quote": "La geometría existía antes de la creación. Es coeterna con la mente de Dios.",
+    "author": "Johannes Kepler"
+  },
+  {
+    "quote": "Solo estaba pensando los pensamientos de Dios después de Él.",
+    "author": "Johannes Kepler"
+  },
+  {
+    "quote": "El ave del paraíso se posa solo sobre la mano que no la atrapa.",
+    "author": "John Berry"
+  },
+  {
+    "quote": "Todos los grandes triunfadores con los que he trabajado están impulsados por un sueño personal.",
+    "author": "John Eliot"
+  },
+  {
+    "quote": "El amor es la flor que tienes que dejar crecer.",
+    "author": "John Lennon"
+  },
+  {
+    "quote": "La realidad deja mucho a la imaginación.",
+    "author": "John Lennon"
+  },
+  {
+    "quote": "El tiempo que disfrutas perdiendo no fue tiempo perdido.",
+    "author": "John Lennon"
+  },
+  {
+    "quote": "Lo que te preocupa, te domina.",
+    "author": "John Locke"
+  },
+  {
+    "quote": "La vida es movimiento: ¡respiramos, comemos, caminamos, nos movemos!",
+    "author": "John Pierrakos"
+  },
+  {
+    "quote": "Nunca confundas actividad con logro.",
+    "author": "John Wooden"
+  },
+  {
+    "quote": "No puedes detener las olas, pero puedes aprender a surfear.",
+    "author": "Jon Kabat-Zinn"
+  },
+  {
+    "quote": "La intuición le dirá a la mente pensante adónde mirar a continuación.",
+    "author": "Jonas Salk"
+  },
+  {
+    "quote": "Elige batallas lo suficientemente grandes como para importar, lo suficientemente pequeñas como para ganar.",
+    "author": "Jonathan Kozol"
+  },
+  {
+    "quote": "Uno no es lo que es por lo que escribe, sino por lo que ha leído.",
+    "author": "Jorge Luis Borges"
+  },
+  {
+    "quote": "Siempre imaginé que el Paraíso sería algún tipo de biblioteca.",
+    "author": "Jorge Luis Borges"
+  },
+  {
+    "quote": "Cuando el deber patrio llama, la audacia en el campo de batalla es la que dicta los triunfos que la historia recordará.",
+    "author": "José Andrés Rázuri"
+  },
+  {
+    "quote": "Nunca tuve que vindicar mis acciones públicas, ya que el honor fue mi guía y la maledicencia no tuvo nada que reprocharme.",
+    "author": "José Bernardo de Tagle"
+  },
+  {
+    "quote": "Céñí la espada para defender la libertad, siendo el campo de batalla mi taller y suyos los enemigos de la patria.",
+    "author": "José Bernardo de Tagle"
+  },
+  {
+    "quote": "Pienso que estamos ciegos, ciegos que ven, ciegos que, viendo, no ven.",
+    "author": "José Saramago"
+  },
+  {
+    "quote": "La derrota tiene algo positivo, nunca es definitiva. En cambio, la victoria tiene algo negativo, jamás es definitiva.",
+    "author": "José Saramago"
+  },
+  {
+    "quote": "La vida es cambio. El crecimiento es opcional. Elige sabiamente.",
+    "author": "Karen Clark"
+  },
+  {
+    "quote": "Molestarse por lo que no tienes es desperdiciar lo que sí tienes.",
+    "author": "Ken S. Keyes"
+  },
+  {
+    "quote": "Anticipa lo difícil gestionando lo fácil.",
+    "author": "Lao Tzu"
+  },
+  {
+    "quote": "El que habla más, más pronto se agota.",
+    "author": "Lao Tzu"
+  },
+  {
+    "quote": "El que está contento es rico.",
+    "author": "Lao Tzu"
+  },
+  {
+    "quote": "El viaje de mil millas comienza con un solo paso.",
+    "author": "Lao Tzu"
+  },
+  {
+    "quote": "La imaginación es el cometa más alto que uno puede volar.",
+    "author": "Lauren Bacall"
+  },
+  {
+    "quote": "Si no sabes a dónde vas, probablemente terminarás en otro lugar.",
+    "author": "Lawrence Peter"
+  },
+  {
+    "quote": "No se asfixien mutuamente. Nadie puede crecer a la sombra.",
+    "author": "Leo F. Buscaglia"
+  },
+  {
+    "quote": "Quien siembra virtud, cosecha honor.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "quote": "Todo nuestro conocimiento tiene su origen en nuestras percepciones.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "quote": "Nada fortalece tanto la autoridad como el silencio.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "quote": "Perdonar es liberar a un prisionero y darse cuenta de que ese prisionero eras tú.",
+    "author": "Lewis B. Smedes"
+  },
+  {
+    "quote": "Los dos guerreros más poderosos son la paciencia y el tiempo.",
+    "author": "León Tolstói"
+  },
+  {
+    "quote": "La respuesta más corta es hacer.",
+    "author": "Lord Herbert"
+  },
+  {
+    "quote": "No llores porque terminó. Sonríe porque ocurrió.",
+    "author": "Ludwig Jacobowski"
+  },
+  {
+    "quote": "Arde con el fuego que nunca se extingue.",
+    "author": "Luisa Sigea"
+  },
+  {
+    "quote": "La sociedad desarrolla el ingenio, pero solo su contemplación forma el genio.",
+    "author": "Madame de Staël"
+  },
+  {
+    "quote": "Debemos convertirnos en el cambio que queremos ver.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "quote": "La fuerza no proviene de la capacidad física. Proviene de una voluntad indomable.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "quote": "Cada día provee sus propios regalos.",
+    "author": "Marco Aurelio"
+  },
+  {
+    "quote": "La autocomplacencia es fatal para el progreso.",
+    "author": "Margaret Sangster"
+  },
+  {
+    "quote": "Nunca veo lo que se ha hecho; solo veo lo que queda por hacer.",
+    "author": "Marie Curie"
+  },
+  {
+    "quote": "No hay que temer a nada en la vida. Solo hay que entenderlo.",
+    "author": "Marie Curie"
+  },
+  {
+    "quote": "Sé que voy a quererte sin preguntas, sé que vas a quererme sin respuestas.",
+    "author": "Mario Benedetti"
+  },
+  {
+    "quote": "Cinco minutos bastan para soñar una vida, así de relativo es el tiempo.",
+    "author": "Mario Benedetti"
+  },
+  {
+    "quote": "Aprender a leer es lo más importante que me ha pasado en la vida.",
+    "author": "Mario Vargas Llosa"
+  },
+  {
+    "quote": "Cuando la realidad se vuelve irresistible, la ficción es un refugio. Refugio de tristes, nostálgicos y soñadores.",
+    "author": "Mario Vargas Llosa"
+  },
+  {
+    "quote": "El mayor riesgo es no asumir ningún riesgo. En un mundo que cambia realmente rápido, la única estrategia en la que el fracaso está garantizado es no asumir riesgos.",
+    "author": "Mark Zuckerberg"
+  },
+  {
+    "quote": "Sin fe, nada es posible. Con ella, nada es imposible.",
+    "author": "Mary Bethune"
+  },
+  {
+    "quote": "Creo que toda persona nace con talento.",
+    "author": "Maya Angelou"
+  },
+  {
+    "quote": "Para volar, tenemos que tener resistencia.",
+    "author": "Maya Lin"
+  },
+  {
+    "quote": "Para tener éxito, primero debemos creer que podemos.",
+    "author": "Michael Korda"
+  },
+  {
+    "quote": "El miedo es un cuarto oscuro donde se revelan los negativos.",
+    "author": "Michael Pritchard"
+  },
+  {
+    "quote": "La fe en uno mismo es el mejor y más seguro camino.",
+    "author": "Miguel Ángel"
+  },
+  {
+    "quote": "No hay mayor daño que el del tiempo perdido.",
+    "author": "Miguel Ángel"
+  },
+  {
+    "quote": "El momento estelar más grande de mi vida es saberme fruto del amor, cuyo destino es amar intensamente y por siempre hasta el final.",
+    "author": "Miguel Ángel Cornejo"
+  },
+  {
+    "quote": "Entre la razón y el corazón, haz lo que tu corazón debe hacer; finalmente es lo más bello de nuestro ser, nuestro propio sentir.",
+    "author": "Miguel Ángel Cornejo"
+  },
+  {
+    "quote": "Lamentamos el tiempo no dedicado a nuestros padres, quienes entregaron su vida y amor incondicionalmente, pero a quienes percibimos como fastidiosos en su vejez.",
+    "author": "Miguel Ángel Cornejo"
+  },
+  {
+    "quote": "Dios tiene una tienda donde la gente puede pedir lo que necesite, pero en esta tienda no se venden frutos, sino semillas; es necesario cultivarlas para obtener los resultados.",
+    "author": "Miguel Ángel Cornejo"
+  },
+  {
+    "quote": "Maestro es aquél que hace soñar a sus alumnos en hacer posible lo imposible.",
+    "author": "Miguel Ángel Cornejo"
+  },
+  {
+    "quote": "Las crisis son un alto en el camino, una oportunidad para la reflexión y la autocrítica; es el preludio del nuevo amanecer.",
+    "author": "Miguel Ángel Cornejo"
+  },
+  {
+    "quote": "No sonrío porque soy feliz. Sonrío para ser feliz. No esperes a que llegue la felicidad para regalar una sonrisa.",
+    "author": "Miguel Ángel Cornejo"
+  },
+  {
+    "quote": "Al nacer, el ser humano recibe todo lo necesario para crear el mundo deseado; por lo tanto, se debe tener ánimo y trabajar para lograrlo.",
+    "author": "Miguel Ángel Cornejo"
+  },
+  {
+    "quote": "El líder no nace, se hace a sí mismo a través del esfuerzo constante y la pasión por servir a los demás.",
+    "author": "Miguel Ángel Cornejo"
+  },
+  {
+    "quote": "El fracaso no existe, solo existen los resultados; si no obtienes lo que deseas, cambia de estrategia hasta lograrlo.",
+    "author": "Miguel Ángel Cornejo"
+  },
+  {
+    "quote": "El éxito no es el destino, es el camino que recorres todos los días dando lo mejor de ti.",
+    "author": "Miguel Ángel Cornejo"
+  },
+  {
+    "quote": "El momento estelar más grande de mi vida es saberme fruto del amor, cuyo destino es amar intensamente y por siempre hasta el final.",
+    "author": "Miguel Ángel Cornejo"
+  },
+  {
+    "quote": "Nunca eres un perdedor hasta que dejas de intentarlo.",
+    "author": "Mike Ditka"
+  },
+  {
+    "quote": "Piensa en lo difícil que sería la física si las partículas pudieran pensar.",
+    "author": "Murray Gell-Mann"
+  },
+  {
+    "quote": "No esperes. El momento nunca será el justo y perfecto.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "quote": "Ninguna excusa te salvará de aceptar la responsabilidad.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "quote": "La felicidad se encuentra en el hacer, no simplemente en el poseer.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "quote": "La victoria pertenece al más perseverante.",
+    "author": "Napoleón Bonaparte"
+  },
+  {
+    "quote": "La sabiduría más verdadera es una determinación resuelta.",
+    "author": "Napoleón Bonaparte"
+  },
+  {
+    "quote": "La imaginación gobierna el mundo.",
+    "author": "Napoleón Bonaparte"
+  },
+  {
+    "quote": "Saber que sabemos lo que sabemos, y saber que no sabemos lo que no sabemos, esa es la verdadera sabiduría.",
+    "author": "Nicolás Copérnico"
+  },
+  {
+    "quote": "El universo ha sido forjado para nosotros por un Creador supremamente bueno y ordenado.",
+    "author": "Nicolás Copérnico"
+  },
+  {
+    "quote": "Al creer apasionadamente en algo que aún no existe, lo creamos.",
+    "author": "Nikos Kazantzakis"
+  },
+  {
+    "quote": "Cada desgracia que encuentres llevará en sí misma la semilla de la buena suerte de mañana.",
+    "author": "Og Mandino"
+  },
+  {
+    "quote": "Sigue tus instintos. Ahí es donde se manifiesta la verdadera sabiduría.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "quote": "La experiencia es simplemente el nombre que le damos a nuestros errores.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "quote": "La causa está oculta. El efecto es visible para todos.",
+    "author": "Ovidio"
+  },
+  {
+    "quote": "Todas las cosas cambian; nada perece.",
+    "author": "Ovidio"
+  },
+  {
+    "quote": "Todo lo que puedes imaginar es real.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "quote": "La inspiración existe, pero tiene que encontrarnos trabajando.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "quote": "Escribe tus planes en lápiz y dale a Dios el borrador.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "quote": "El crecimiento en sí mismo contiene el germen de la felicidad.",
+    "author": "Pearl Buck"
+  },
+  {
+    "quote": "El tiempo es el consejero más sabio de todos.",
+    "author": "Pericles"
+  },
+  {
+    "quote": "La eficiencia es hacer las cosas bien; la efectividad es hacer las cosas correctas.",
+    "author": "Peter Drucker"
+  },
+  {
+    "quote": "No hay nada en la televisión que valga la pena ver. No vamos a verla en esta casa, y no la quiero en tu menú de propiedad intelectual.",
+    "author": "Philo Farnsworth"
+  },
+  {
+    "quote": "La aceptación del dolor es parte de nuestro crecimiento y el único camino real hacia una madurez emocional profunda.",
+    "author": "Pilar Sordo"
+  },
+  {
+    "quote": "El éxito verdadero no es lo que los demás ven desde afuera, sino la paz interior que sentís cuando estás a solas con vos mismo.",
+    "author": "Pilar Sordo"
+  },
+  {
+    "quote": "Una buena decisión se basa en el conocimiento y no en los números.",
+    "author": "Platón"
+  },
+  {
+    "quote": "Lo que logramos interiormente cambiará la realidad exterior.",
+    "author": "Plutarco"
+  },
+  {
+    "quote": "Haz solo lo que te dicte el corazón.",
+    "author": "Princesa Diana"
+  },
+  {
+    "quote": "Cuando los hechos hablan, las palabras no son nada.",
+    "author": "Proverbio africano"
+  },
+  {
+    "quote": "El silencio es una cerca alrededor de la sabiduría.",
+    "author": "Proverbio alemán"
+  },
+  {
+    "quote": "Empieza a tejer y Dios te dará el hilo.",
+    "author": "Proverbio alemán"
+  },
+  {
+    "quote": "De pequeñas bellotas crecen robles poderosos.",
+    "author": "Proverbio americano"
+  },
+  {
+    "quote": "El aprendizaje es un tesoro que seguirá a su dueño a todas partes.",
+    "author": "Proverbio chino"
+  },
+  {
+    "quote": "Hablar no cocina el arroz.",
+    "author": "Proverbio chino"
+  },
+  {
+    "quote": "Las palabras amables abrirán una puerta de hierro.",
+    "author": "Proverbio turco"
+  },
+  {
+    "quote": "Piedra que rueda no acumula musgo.",
+    "author": "Publilio Siro"
+  },
+  {
+    "quote": "Mientras nos detenemos a pensar, a menudo perdemos nuestra oportunidad.",
+    "author": "Publilio Siro"
+  },
+  {
+    "quote": "Mejor ser ignorante de un asunto que saberlo a medias.",
+    "author": "Publilio Siro"
+  },
+  {
+    "quote": "A menudo me he arrepentido de mi discurso, nunca de mi silencio.",
+    "author": "Publilio Siro"
+  },
+  {
+    "quote": "La habilidad para hacer proviene del hacer.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "quote": "Los años enseñan mucho que los días nunca saben.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "quote": "Nuestra desconfianza es muy cara.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "quote": "La buena suerte es otro nombre para la tenacidad de propósito.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "quote": "La vida es un progreso, no una estación.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "quote": "Nuestra fuerza crece a partir de nuestras debilidades.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "quote": "Discute por tus limitaciones, y seguro que serán tuyas.",
+    "author": "Richard Bach"
+  },
+  {
+    "quote": "Para ganar, debes esperar ganar.",
+    "author": "Richard Bach"
+  },
+  {
+    "quote": "Las cosas más simples suelen ser las más verdaderas.",
+    "author": "Richard Bach"
+  },
+  {
+    "quote": "Para traer algo a tu vida, imagina que ya está ahí.",
+    "author": "Richard Bach"
+  },
+  {
+    "quote": "Cada problema tiene un regalo para ti en sus manos.",
+    "author": "Richard Bach"
+  },
+  {
+    "quote": "Emprender una nueva acción trae nuevas fuerzas.",
+    "author": "Richard Evans"
+  },
+  {
+    "quote": "La mejor forma de salir es siempre a través.",
+    "author": "Robert Frost"
+  },
+  {
+    "quote": "Nunca ignores un presentimiento, pero nunca creas que es suficiente.",
+    "author": "Robert Heller"
+  },
+  {
+    "quote": "Es mejor viajar bien que llegar.",
+    "author": "Robert Louis Stevenson"
+  },
+  {
+    "quote": "La paciencia es la compañera de la sabiduría.",
+    "author": "San Agustín"
+  },
+  {
+    "quote": "El fin de la ciencia no es aceptar los dichos de otros, sino investigar las causas de lo que ocurre en la naturaleza.",
+    "author": "San Alberto Magno"
+  },
+  {
+    "quote": "No hay nada más noble que la búsqueda de la verdad.",
+    "author": "San Alberto Magno"
+  },
+  {
+    "quote": "Más corazón en esas manos, hermanos.",
+    "author": "San Camilo de Lelis"
+  },
+  {
+    "quote": "Los enfermos son los ojos de Dios; lo que hacemos por ellos, lo hacemos por Dios mismo.",
+    "author": "San Camilo de Lelis"
+  },
+  {
+    "quote": "Al atardecer de la vida, serás examinado en el amor.",
+    "author": "San Juan de la Cruz"
+  },
+  {
+    "quote": "Para venir a poseerlo todo, no quieras poseer algo en nada.",
+    "author": "San Juan de la Cruz"
+  },
+  {
+    "quote": "Yo te curo, Dios te sana.",
+    "author": "San Martín de Porres"
+  },
+  {
+    "quote": "Todo, incluso el dolor, pasa. Solo lo que se hace por amor permanece.",
+    "author": "San Martín de Porres"
+  },
+  {
+    "quote": "La verdad es poderosa y prevalece.",
+    "author": "Sojourner Truth"
+  },
+  {
+    "quote": "Ningún copo de nieve en una avalancha se siente jamás responsable.",
+    "author": "Stanisław Jerzy Lec"
+  },
+  {
+    "quote": "Si te conoces a ti mismo y conoces a tu enemigo, no debes temer el resultado de cien batallas.",
+    "author": "Sun Tzu"
+  },
+  {
+    "quote": "Los arcoíris se disculpan por los cielos enojados.",
+    "author": "Sylvia Voirol"
+  },
+  {
+    "quote": "La suerte es lo que sucede cuando la preparación se encuentra con la oportunidad.",
+    "author": "Séneca"
+  },
+  {
+    "quote": "Ningún hombre fue sabio por casualidad.",
+    "author": "Séneca"
+  },
+  {
+    "quote": "El mejor remedio para la ira es la demora.",
+    "author": "Séneca"
+  },
+  {
+    "quote": "La mente desaprende con dificultad lo que ha aprendido por mucho tiempo.",
+    "author": "Séneca"
+  },
+  {
+    "quote": "Empieza de inmediato a vivir y cuenta cada día por separado como una vida separada.",
+    "author": "Séneca"
+  },
+  {
+    "quote": "Si uno no sabe hacia qué puerto navega, ningún viento es favorable.",
+    "author": "Séneca"
+  },
+  {
+    "quote": "Se como deseas parecer.",
+    "author": "Sócrates"
+  },
+  {
+    "quote": "La sabiduría comienza en el asombro.",
+    "author": "Sócrates"
+  },
+  {
+    "quote": "La sabiduría es la parte suprema de la felicidad.",
+    "author": "Sófocles"
+  },
+  {
+    "quote": "Un dicho corto a menudo contiene mucha sabiduría.",
+    "author": "Sófocles"
+  },
+  {
+    "quote": "Escribir no es el resultado del pensamiento; es el medio en el que el pensamiento tiene lugar.",
+    "author": "Sönke Ahrens"
+  },
+  {
+    "quote": "Uno enfrenta el futuro con su pasado.",
+    "author": "T. S. Eliot"
+  },
+  {
+    "quote": "El tiempo es la cosa más valiosa que un hombre puede gastar.",
+    "author": "Teofrasto"
+  },
+  {
+    "quote": "Sonríe, respira y ve despacio.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "quote": "Que el jardín del despertar de nuestros corazones florezca con cientos de flores.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "quote": "El silencio es profundo como la Eternidad, el discurso es superficial como el Tiempo.",
+    "author": "Thomas Carlyle"
+  },
+  {
+    "quote": "Las mentes son como los paracaídas. Solo funcionan cuando están abiertas.",
+    "author": "Thomas Dewar"
+  },
+  {
+    "quote": "Si hiciéramos las cosas de las que somos capaces, nos asombraríamos a nosotros mismos.",
+    "author": "Thomas Edison"
+  },
+  {
+    "quote": "Ningún jardín está libre de malas hierbas.",
+    "author": "Thomas Fuller"
+  },
+  {
+    "quote": "La ausencia hace que el corazón se encariñe más.",
+    "author": "Thomas Haynes Bayly"
+  },
+  {
+    "quote": "Nunca dejes para mañana lo que puedes hacer hoy.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "quote": "Si te rindes al viento, puedes cabalgarlo.",
+    "author": "Toni Morrison"
+  },
+  {
+    "quote": "Pase lo que pase, asume la responsabilidad.",
+    "author": "Tony Robbins"
+  },
+  {
+    "quote": "El camino hacia el éxito es tomar una acción masiva y determinada.",
+    "author": "Tony Robbins"
+  },
+  {
+    "quote": "El mundo siempre está en movimiento.",
+    "author": "V. Naipaul"
+  },
+  {
+    "quote": "La vida es la flor de la cual el amor es la miel.",
+    "author": "Victor Hugo"
+  },
+  {
+    "quote": "Es capaz quien piensa que es capaz.",
+    "author": "Virgilio"
+  },
+  {
+    "quote": "La fortuna favorece a los valientes.",
+    "author": "Virgilio"
+  },
+  {
+    "quote": "Para disfrutar la vida, debemos tocar gran parte de ella con ligereza.",
+    "author": "Voltaire"
+  },
+  {
+    "quote": "Si puedes soñarlo, puedes hacerlo.",
+    "author": "Walt Disney"
+  },
+  {
+    "quote": "Las creencias fuertes ganan a hombres fuertes, y luego los hacen más fuertes.",
+    "author": "Walter Bagehot"
+  },
+  {
+    "quote": "El desapego no es desamor, sino una manera sana de relacionarse, cuyas premisas son: independencia, no posesividad y tampoco adicción.",
+    "author": "Walter Riso"
+  },
+  {
+    "quote": "Hay que amar siendo libre: 'Yo no te necesito, te prefiero, te elijo'.",
+    "author": "Walter Riso"
+  },
+  {
+    "quote": "Donde hay gran amor, siempre hay milagros.",
+    "author": "Willa Cather"
+  },
+  {
+    "quote": "Haz más que soñar: trabaja.",
+    "author": "William Arthur Ward"
+  },
+  {
+    "quote": "Teniendo nada, nada puede perder.",
+    "author": "William Shakespeare"
+  },
+  {
+    "quote": "Ama a todos, confía en unos pocos, no le hagas mal a nadie.",
+    "author": "William Shakespeare"
+  },
+  {
+    "quote": "El que está mareado piensa que el mundo da vueltas.",
+    "author": "William Shakespeare"
+  },
+  {
+    "quote": "Habla en voz baja, si hablas de amor.",
+    "author": "William Shakespeare"
+  },
+  {
+    "quote": "Se grande en tus actos, como lo has sido en tus pensamientos.",
+    "author": "William Shakespeare"
+  },
+  {
+    "quote": "Piensa como un sabio pero comunícate en el lenguaje del pueblo.",
+    "author": "William Yeats"
+  },
+  {
+    "quote": "El éxito no es definitivo, el fracaso no es fatídico: lo que cuenta es el valor para continuar.",
+    "author": "Winston Churchill"
+  },
+  {
+    "quote": "Elegimos nuestro destino en la forma en que tratamos a los demás.",
+    "author": "Wit"
+  },
+  {
+    "quote": "La vida es una experiencia de aprendizaje, solo si aprendes.",
+    "author": "Yogi Berra"
+  },
+  {
+    "quote": "La disciplina, tarde o temprano, vencerá a la inteligencia.",
+    "author": "Yokoi Kenji"
+  },
+  {
+    "quote": "Cuando corregimos desde la rabia, dejamos que nuestras emociones nublen el verdadero propósito de la disciplina: formar el carácter.",
+    "author": "Yokoi Kenji"
+  },
+  {
+    "quote": "Pobladores del mundo, salvaguardemos esta belleza, no la destruyamos.",
+    "author": "Yuri Gagarin"
+  }
 ]
